@@ -1,0 +1,28 @@
+{
+  "strings": {
+    "en-US": {
+      "app_name": "Global Currency Converter",
+      "select_currency": "Select Currency",
+      "switch_currency": "Switch Currency",
+      "add_currency": "Add Currency",
+      "todays_rate": "Today's online rate: 1 ",
+      "equals": "Equals",
+      "save_currency": "Save Currency",
+      "cancel": "Cancel",
+      "amount": "Amount",
+      "converted_amount": "Converted Amount"
+    },
+    "de-DE": {
+      "app_name": "Globaler Währungsumrechner",
+      "select_currency": "Währung auswählen",
+      "switch_currency": "Währung wechseln",
+      "add_currency": "Währung hinzufügen",
+      "todays_rate": "Heutiger Online-Kurs: 1 ",
+      "equals": "Entspricht",
+      "save_currency": "Währung speichern",
+      "cancel": "stornieren",
+      "amount": "Betrag",
+      "converted_amount": "Umgerechneter Betrag"
+    }
+  }
+}
